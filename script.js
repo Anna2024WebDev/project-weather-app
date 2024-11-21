@@ -205,7 +205,7 @@ const updateUI = (temperature, weatherDescription, sunsetTime) => {
       weatherContainer.style.backgroundColor = "#BDE8FA" // Blue for snow
       weatherContainer.style.color = "#164A68" // Blue font color
       searchButton.style.backgroundColor = "#164A68"
-      weatherImg.src = "assets/design-2/snowflake.png"
+      weatherImg.src = "assets/design-2/snow.png"
       weatherMessage = `Wrap up warm! It's snowy in ${city}.`
     }
   }
